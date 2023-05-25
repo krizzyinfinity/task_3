@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+.container {
+  background-color: cadetblue;
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+.myBttn {
+  font-size: 2em;
+  padding: 20px;
+  width: 9em;
+  border-radius: 20px;
+}
+.myH1 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.myH2 {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 5%;
+}
